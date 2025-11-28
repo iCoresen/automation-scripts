@@ -1,2 +1,65 @@
-# automation-scripts
-一个实用的 Python 自动化脚本集合，旨在提高日常工作效率和系统体验。
+# 🤖 Automation Scripts
+
+一个 Python 自动化脚本集合。
+
+## 📋 项目概述
+
+这个仓库收集了我在日常使用中开发的各类自动化工具。
+
+## 🗂️ 项目结构
+
+```
+automation-scripts/
+├── douban-top250-scraper/      # 网络爬虫工具
+│   ├── README.md
+│   └── ...
+├── browser-automation/         # 浏览器自动化
+│   ├── README.md
+│   └── ...
+├── chaoxingtong-slide-download/
+├── startup-reminder-pop-up/
+└── README.md
+```
+
+## 🚀 快速开始
+
+### 环境要求
+- Python 3.7+
+- pip 包管理器
+
+### 安装依赖
+```bash
+# 克隆仓库
+git clone https://github.com/iCoresen/automation-scripts.git
+cd automation-scripts
+
+# 安装依赖（每个子目录有独立的 requirements.txt）
+pip install -r requirements.txt
+```
+
+### 运行示例
+```bash
+# 进入对应目录
+cd browser-automation
+
+# 运行脚本
+python study_script.py
+```
+
+## 📝 使用说明
+
+每个子目录都包含详细的 README 文档，说明：
+- 具体功能介绍
+- 使用方法和参数配置
+- 注意事项和常见问题
+
+请查看各模块目录下的 README.md 获取详细信息。
+
+
+## 📄 许可证
+
+MIT License - 欢迎使用和修改，但请保留原作者信息。
+
+---
+
+⭐ 如果这个项目对你有帮助，欢迎 Star！

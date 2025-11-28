@@ -1,0 +1,24 @@
+{
+    "active_start": "00:00",
+    "active_end": "23:59",
+    "check_interval": 20,
+    "study_site": "https://weread.qq.com/",
+    "bilibili_keywords": [
+        "bilibili",
+        "B站",
+        "哔哩哔哩",
+        "YouTube"
+    ],
+    "learning_keywords": [
+        "CS",
+	"计算机网络",
+	"操作系统",
+	"死锁",
+	"内存",
+	"IO",
+	"文件"
+    ],
+    "test_mode": false,
+    "test_duration": 30,
+    "test_start_delay": 3
+}
