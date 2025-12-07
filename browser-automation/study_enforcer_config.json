@@ -2,7 +2,7 @@
     "active_start": "00:00",
     "active_end": "23:59",
     "check_interval": 20,
-    "study_site": "https://weread.qq.com/",
+    "study_site": "https://github.com/cs106l/cs106l-assignments/tree/main",
     "bilibili_keywords": [
         "bilibili",
         "B站",
@@ -10,15 +10,10 @@
         "YouTube"
     ],
     "learning_keywords": [
-        "CS",
-	"计算机网络",
-	"操作系统",
-	"死锁",
-	"内存",
-	"IO",
-	"文件"
+        "操作系统"
     ],
-    "test_mode": false,
+    "test_mode": true,
     "test_duration": 30,
-    "test_start_delay": 3
+    "test_start_delay": 3,
+    "config_reload_interval": 30
 }

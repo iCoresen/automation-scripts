@@ -52,7 +52,7 @@ def run_test():
 
     try:
         # 启动主程序
-        process = subprocess.Popen([sys.executable, "study_enforcer.py"])
+        process = subprocess.Popen([sys.executable, "study_enforcer.pyw"])
 
         # 等待测试完成
         time.sleep(35)  # 略长于测试时间
